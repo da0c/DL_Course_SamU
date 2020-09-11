@@ -74,7 +74,8 @@ TBD.
 План может менятся в процессе курса.  
 
 **Л.Р. 1**  
-kNN, многоклассовый SVM, SoftMax.
+kNN, многоклассовый SVM, SoftMax.  
+[Материалы к лабораторной](https://github.com/da0c/DL_Course_SamU/tree/master/lab_1).
 
 **Л.Р. 2**  
 Двухслойная сеть.
