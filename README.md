@@ -81,10 +81,11 @@ TBD.
 
 **Л.Р. 1**  
 kNN, многоклассовый SVM, SoftMax.  
-[Материалы к лабораторной](https://github.com/da0c/DL_Course_SamU/tree/master/lab_1).
+[Материалы к лабораторной](https://github.com/da0c/DL_Course_SamU/blob/master/lab_1-2/assignment1.ipynb).
 
 **Л.Р. 2**  
 Двухслойная сеть.
+[Материалы к лабораторной](https://github.com/da0c/DL_Course_SamU/blob/master/lab_1-2/assignment2.ipynb).
 
 **Л.Р. 3**  
 Многослойный перцептрон, обратное распространение ошибки, сверточные сети.
