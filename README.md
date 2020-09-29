@@ -91,7 +91,7 @@ kNN, многоклассовый SVM, SoftMax.
 [Материалы к лабораторной](https://github.com/da0c/DL_Course_SamU/blob/master/lab_1-2/assignment1.ipynb).
 
 **Л.Р. 2**  
-Двухслойная сеть.
+Двухслойная сеть.  
 [Материалы к лабораторной](https://github.com/da0c/DL_Course_SamU/blob/master/lab_1-2/assignment2.ipynb).
 
 **Л.Р. 3**  
