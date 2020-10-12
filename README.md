@@ -56,6 +56,8 @@ https://t.me/DL_SamU_2020
 Основные операции СНС.  
 Применение СНС вне задач машинного зрения.  
 
+[Презентация к лекции 4](https://github.com/da0c/DL_Course_SamU/blob/master/lections/Lecture_4_CNN1.pdf)
+
 **Лекция 5. Инструментарий глубокого обучения.**  
 CPU vs GPU vs TPU.  
 Пакеты глубокого обучения, Tensorflow, Keras и другие.  
