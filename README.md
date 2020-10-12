@@ -35,6 +35,7 @@ https://t.me/DL_SamU_2020
 [Презентация к лекции 1](https://github.com/da0c/DL_Course_SamU/blob/master/lections/Lection_1_ImClass.pdf)  
 
 **Лекция 2. Функции потерь и оптимизация.**  
+[Видеозапись лекции 28.09.2020](https://www.youtube.com/watch?v=3uOIqTNclPA)  
 Мультиклассовый SVM и его функция потерь.  
 Софтмакс и мультимодальная логистическая регрессия.  
 Оптимизация функции потерь.  
