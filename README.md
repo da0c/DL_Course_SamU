@@ -106,7 +106,7 @@ kNN, многоклассовый SVM, SoftMax.
 [Материалы к лабораторной](https://github.com/da0c/DL_Course_SamU/blob/master/lab_3/assignment3.ipynb).   
 
 **Л.Р. 4**  
-Использование различных архитектуры СНС в Tensorflow/Keras.  
+Использование библиотеки Tensorflow для обучения СНС.  
 [Материалы к лабораторной](https://github.com/da0c/DL_Course_SamU/blob/master/lab_4/assignment4.ipynb).  
 
 **Л.Р. 5**  
