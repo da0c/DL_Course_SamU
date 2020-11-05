@@ -102,10 +102,12 @@ kNN, многоклассовый SVM, SoftMax.
 [Материалы к лабораторной](https://github.com/da0c/DL_Course_SamU/blob/master/lab_1-2/assignment2.ipynb).
 
 **Л.Р. 3**  
-Многослойный перцептрон, обратное распространение ошибки, сверточные сети.
+Многослойный перцептрон, обратное распространение ошибки, сверточные сети.   
+[Материалы к лабораторной](https://github.com/da0c/DL_Course_SamU/blob/master/lab_3/assignment3.ipynb).   
 
 **Л.Р. 4**  
-Использование различных архитектуры СНС в Tensorflow/Keras.
+Использование различных архитектуры СНС в Tensorflow/Keras.  
+[Материалы к лабораторной](https://github.com/da0c/DL_Course_SamU/blob/master/lab_4/assignment4.ipynb).  
 
 **Л.Р. 5**  
 Решение прикладной задачи с применением СНС.
