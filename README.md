@@ -60,6 +60,7 @@ https://t.me/DL_SamU_2020
 [Презентация к лекции 4](https://github.com/da0c/DL_Course_SamU/blob/master/lections/Lecture_4_CNN1.pdf)
 
 **Лекция 5. Инструментарий глубокого обучения.**  
+[Видеозапись лекции 30.10.2020](https://www.youtube.com/watch?v=E0F11tV92sU&feature=youtu.be)  
 CPU vs GPU vs TPU.  
 Пакеты глубокого обучения, Tensorflow, Keras и другие.  
 Вычислительные графы СНС.  
