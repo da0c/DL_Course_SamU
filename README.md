@@ -63,10 +63,14 @@ CPU vs GPU vs TPU.
 Пакеты глубокого обучения, Tensorflow, Keras и другие.  
 Вычислительные графы СНС.  
 
+[Презентация к лекции 5](https://github.com/da0c/DL_Course_SamU/blob/master/lections/lecture_5_Tools.pdf)  
+
 **Лекция 6. Обучение СНС, часть 1.**  
 Активационные функции, обработка данных сетью.  
 Пакетная нормализация и другие трюки.  
 Transfer learning.
+
+[Презентация к лекции 6](https://github.com/da0c/DL_Course_SamU/blob/master/lections/lecture_6_Training1.pdf)  
 
 **Лекция 7. Обучение СНС, часть 2.**  
 Политики обновления гиперпараметров.  
