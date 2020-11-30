@@ -115,6 +115,19 @@ kNN, многоклассовый SVM, SoftMax.
 **Л.Р. 5**  
 Решение прикладной задачи с применением СНС.
 
+Задание на Л.Р. 5: 
+1) Определите задачу.
+2) Предложите ее решение на основе СНС.
+3) Реализуйте предложенное решение с использованием библиотеки глубокого обучения (например, Tensorflow). 
+4) Опишите результаты работы в виде статьи по шаблону конференции [ИТНТ](http://itnt-conf.org/index.php/materialy/shablony). 
+
+
+Интересные задачи можно найти в сборниках следующих конференций:  
+[CVPR: IEEE Conference on Computer Vision and Pattern Recognition](https://openaccess.thecvf.com/CVPR2019)  
+[ICCV: International Conference on Computer Vision](https://openaccess.thecvf.com/ICCV2019)  
+[ECCV: European Conference on Computer Vision](https://openaccess.thecvf.com/ECCV2018)  
+или на сайте [Kaggle](https://www.kaggle.com/) . 
+
 
 
 ## Литература и дополнительные источнки  
