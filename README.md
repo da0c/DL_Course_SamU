@@ -83,20 +83,32 @@ Transfer learning.
 Тюнинг процесса обучения.
 Аугментация данных.  
 
+[Презентация к лекции 7](https://github.com/da0c/DL_Course_SamU/blob/master/lections/lecture_7_Training2.pdf)  
+
 **Лекция 8. Архитектуры СНС**  
 Базовые архитектуры - AlexNet, VGG, GoogleNet, ResNet, UNET и другие.  
 
+[Презентация к лекции 8](https://github.com/da0c/DL_Course_SamU/blob/master/lections/lecture_8_Arch.pdf)  
+
 **Лекция 9. Генеративные и рекуррентные модели**  
-RNN/LSTM.  
+1. RNN/LSTM.  
 Механизм attention.
 Обработка естественного языка.
-GAN сети.
 
-**Лекция 10. Прикладные сценарии использования СНС**  
-TBD.  
+[Презентация к лекции 9.1](https://github.com/da0c/DL_Course_SamU/blob/master/lections/lecture_9_1.pdf)  
 
-**Лекция 11. Перспективы развития ИИ**  
-TBD.  
+2. GAN сети.
+
+[Презентация к лекции 9.2](https://github.com/da0c/DL_Course_SamU/blob/master/lections/lecture_9_2.pdf)  
+
+3. Детектирование и сегментация.
+
+[Презентация к лекции 9.3](https://github.com/da0c/DL_Course_SamU/blob/master/lections/lecture_9_3.pdf)  
+
+
+**Лекция 10. Нейростевые модели и исуксственный интеллект**  
+
+
 
 ## Предварительный план лабораторных работ.
 
