@@ -92,6 +92,9 @@ Transfer learning.
 [Презентация к лекции 7](https://github.com/da0c/DL_Course_SamU/blob/master/lections/lecture_7_Training2.pdf)  
 
 **Лекция 8. Архитектуры СНС**  
+
+[Видеозапись лекции 07.12.2020](https://youtu.be/07AcZgtoipc)  
+
 Базовые архитектуры - AlexNet, VGG, GoogleNet, ResNet, UNET и другие.  
 
 [Презентация к лекции 8](https://github.com/da0c/DL_Course_SamU/blob/master/lections/lecture_8_Arch.pdf)  
