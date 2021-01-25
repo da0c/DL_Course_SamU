@@ -97,6 +97,9 @@ Transfer learning.
 [Презентация к лекции 8](https://github.com/da0c/DL_Course_SamU/blob/master/lections/lecture_8_Arch.pdf)  
 
 **Лекция 9. Генеративные и рекуррентные модели**  
+
+[Видеозапись лекции 23.12.2020](https://youtu.be/XWd6XYPVYdM)  
+
 1. RNN/LSTM.  
 Механизм attention.
 Обработка естественного языка.
@@ -117,7 +120,7 @@ Transfer learning.
 [Видеозапись лекции 10, 18.01.2021](https://youtu.be/409okL3L6CY)  
 
 
-## Предварительный план лабораторных работ.
+## План лабораторных работ.
 
 План может меняться в процессе курса.  
 
