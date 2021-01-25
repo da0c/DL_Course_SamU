@@ -82,6 +82,9 @@ Transfer learning.
 [Презентация к лекции 6](https://github.com/da0c/DL_Course_SamU/blob/master/lections/lecture_6_Training1.pdf)  
 
 **Лекция 7. Обучение СНС, часть 2.**  
+
+[Видеозапись лекции 23.11.2020](https://youtu.be/1ypE6fz5zXo)  
+
 Политики обновления гиперпараметров.  
 Тюнинг процесса обучения.
 Аугментация данных.  
