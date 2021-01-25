@@ -11,6 +11,9 @@
 Консультация в 10-00 25 января в zoom, ссылка будет позднее.  
 Экзамен 26 января.  
 
+[Вопросы.](https://github.com/da0c/DL_Course_SamU/blob/master/Exams_2021/DL_Exam.pdf)   
+[Примеры задач.](https://github.com/da0c/DL_Course_SamU/blob/master/Exams_2021/MidTerm.pdf)   
+
 ## График проведения курса 2020-2021.
 **Лекционный курс закончен, видеозаписи 2020-21 годов приведены ниже.**  
 
