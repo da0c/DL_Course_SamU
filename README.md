@@ -53,7 +53,7 @@ https://t.me/DL_SamU_2020
 Представление сети в виде вычислительного графа.
 Алгоритм обратного распространения ошибки на вычислительном графе.  
   
-[Презентация к лекции 3](https://github.com/da0c/DL_Course_SamU/blob/master/lections/Lection_3_BP.pdf)  
+[Презентация к лекции 3](https://github.com/da0c/DL_Course_SamU/blob/master/lections/Lecture_3_BP.pdf)  
 
 **Лекция 4. Сверточные сети (СНС).**  
 История.  
