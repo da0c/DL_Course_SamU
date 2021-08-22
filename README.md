@@ -44,7 +44,7 @@ https://t.me/DL_SamU_2020
 Оптимизация функции потерь.  
 Стохастический градиентный спуск (SGD).  
   
-[Презентация к лекции 2](https://github.com/da0c/DL_Course_SamU/blob/master/lections/Lection_1_SGD.pdf)  
+[Презентация к лекции 2](https://github.com/da0c/DL_Course_SamU/blob/master/lections/Lection_2_SGD.pdf)  
 
 **Лекция 3. Нейронные сети и обратное распространение ошибки.**  
 [Видеозапись лекции 28.09.2020](https://www.youtube.com/watch?v=3uOIqTNclPA)  
@@ -53,7 +53,7 @@ https://t.me/DL_SamU_2020
 Представление сети в виде вычислительного графа.
 Алгоритм обратного распространения ошибки на вычислительном графе.  
   
-[Презентация к лекции 3](https://github.com/da0c/DL_Course_SamU/blob/master/lections/Lection_1_BP.pdf)  
+[Презентация к лекции 3](https://github.com/da0c/DL_Course_SamU/blob/master/lections/Lection_3_BP.pdf)  
 
 **Лекция 4. Сверточные сети (СНС).**  
 История.  
